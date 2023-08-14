@@ -1,0 +1,15 @@
+{
+  "name": "cssom",
+  "homepage": "https://github.com/NV/CSSOM",
+  "version": "0.3.1",
+  "_release": "0.3.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.3.1",
+    "commit": "5e833414e31f72cff0418e36af4f57141aac1ab2"
+  },
+  "_source": "https://github.com/NV/CSSOM.git",
+  "_target": "^0.3.1",
+  "_originalSource": "cssom",
+  "_direct": true
+}

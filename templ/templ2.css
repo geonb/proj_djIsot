@@ -1,0 +1,74 @@
+.gridCL {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.T1colDivCL {
+    position: relative;
+    margin-left: 17em;
+}
+
+.T1rowDivCL {
+    position: relative;
+    margin-top: 3em;
+}
+
+.T2colDivCL {
+     position: relative;
+     margin-left: 17em;
+ }
+
+.T2rowDivCL {
+    position: relative;
+    margin-top: 3em;
+}
+.T3colDivCL {
+    position: relative;
+    margin-left: 17em;
+}
+
+.T3rowDivCL {
+    position: relative;
+    margin-top: 3em;
+}
+
+.templ {
+    position: relative;
+    border: 5px solid rgb(30, 30, 30);
+    background-color: rgb(28, 28, 28);
+    margin-bottom: 0.5em;
+	height: 1050px;
+    border-style: hidden;
+}
+
+.tElem {
+    position: relative;
+    width: 84%;
+    height: 100%;
+    margin: auto auto;
+    background-color: rgb(255, 255, 255);
+    overflow: scroll;
+}
+
+.lvl-target {
+    fill: rgb(200, 200, 200) !important;
+    stroke-opacity: 0.5;
+}
+
+[draggable] {
+    cursor: move;
+}
+
+.htmlVal {
+    width: 14.3em;
+    height: 2.3em;
+    background-color: rgb(255, 255, 255);
+}
+
+.delCL {
+    width: 2.3em;
+    height: 2.3em;
+    float: right;
+    background-color: rgb(255, 0, 0);
+}

@@ -1,0 +1,15 @@
+{
+  "name": "cheerio",
+  "homepage": "https://github.com/MatthewMueller/cheerio",
+  "version": "0.22.0",
+  "_release": "0.22.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.22.0",
+    "commit": "49b477e7fe98b74f61f77acd06a0ef4edb5c333e"
+  },
+  "_source": "https://github.com/MatthewMueller/cheerio.git",
+  "_target": "^0.22.0",
+  "_originalSource": "cheerio",
+  "_direct": true
+}
